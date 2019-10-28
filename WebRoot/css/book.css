@@ -1,0 +1,15 @@
+@CHARSET "UTF-8";
+ *{ list-style: none; text-decoration: none;}
+        body{
+            margin: 0px;
+        }
+.nav{
+    list-style: none; line-height:25px;
+  height: 30px; border: 1px solid black; background-color: black;
+}
+.nav li{
+    float: left; color: darkgray; font-size: 14px;width:150px;
+}
+.nav li a{
+	color: darkgray;
+}
